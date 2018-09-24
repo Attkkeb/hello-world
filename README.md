@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+Hi!
+
+I am Beata and I want to be a programmer!
